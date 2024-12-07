@@ -1,7 +1,8 @@
 # 📌YouTube_project
 
 # Introduccion
-En este proyecto compararemos las preferencias musicales de las ciudades de `Springfield y Shelbyville`. Estudiaremos datos reales de YouTube.Music para probar las siguientes hipotesis:
+En este proyecto compararemos las preferencias musicales de las ciudades de `Springfield y Shelbyville`. 
+Estudiaremos datos reales de YouTube.Music para probar las siguientes hipotesis:
 
 - 1.- La actividad de los **usuarios de YouTube** difiere según el **día de la semana y de la ciudad**.
 
