@@ -50,7 +50,7 @@ Resulta que las preferencias musicales de los usuarios de Springfield y Shelbyvi
 **La tercera hipótesis es rechazada**.
 Si hay alguna diferencia en las preferencias no se puede observar en los datos.
 
-# Nota
+# Nota:
 En los proyectos profundos, la investigación supone el estudio de hipótesis estadísticas que es más preciso y cuantitativo. También tenemos en cuenta que no siempre podemos sacar conclusiones sobre una ciudad entera basándonos en datos de una sola fuente.
 
 
