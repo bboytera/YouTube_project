@@ -11,15 +11,16 @@ En este proyecto compararemos las preferencias musicales de las ciudades de Spri
 
 #Descrpcion de los datos
 
-Los datos del comportamiento del usuario se almacenan en el archivo `'/datasets/music_project_en.csv'`.
-La tabla contiene siete columnas. Todas almacenan el mismo tipo de datos: objeto.
+Los datos del comportamiento del usuario se almacenan en el archivo `'/datasets/music_project_en.csv'`
+
+La tabla contiene siete columnas.Todas almacenan el mismo tipo de datos: objeto
 
 De acuerdo con la documentación:
 
-'userID' — identificador del usuario
-'Track' — título de la pista
-'artist' — nombre del artista
-'genre' — género
-'City' — ciudad del usuario
-'time' — la hora exacta en que se reprodujo la pista
-'Day' — día de la semana
+- `'userID'` — identificador del usuario
+- `'Track'` — título de la pista
+- `'artist'` — nombre del artista
+- `'genre'` — género
+- `'City'` — ciudad del usuario
+- `'time'` — la hora exacta en que se reprodujo la pista
+- `'Day'` — día de la semana
