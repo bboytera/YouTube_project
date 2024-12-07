@@ -1,6 +1,6 @@
 # 📌YouTube_project
 
-# Introduccion
+# Introducción
 En este proyecto compararemos las preferencias musicales de las ciudades de `Springfield y Shelbyville`. 
 Estudiaremos datos reales de YouTube.Music para probar las siguientes hipotesis:
 
@@ -10,7 +10,7 @@ Estudiaremos datos reales de YouTube.Music para probar las siguientes hipotesis:
 
 - 3.- Los usuarios de Springfield y Shelbyville tienen preferencias distintas?.En **Springfield** prefieren el **pop** mientras que en **Shelbyville** hay más aficionados al **rap**??.
 
-# Descrpcion de los datos
+# Descrpción de los datos
 
 Los datos del comportamiento del usuario se almacenan en el archivo `'/datasets/music_project_en.csv'`
 
@@ -26,11 +26,11 @@ De acuerdo con la documentación:
 - `'time'` — la hora exacta en que se reprodujo la pista
 - `'Day'` — día de la semana
 
-# Habilidades tecnicas
+# Habilidades técnicas
 - Python
 - Pandas
 
-# Conclusion general
+# Conclusión general
 Hemos probado las siguientes tres hipótesis:
 
 La actividad de los usuarios difiere dependiendo del día de la semana y de las distintas ciudades.
