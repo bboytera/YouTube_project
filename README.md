@@ -10,7 +10,7 @@ Estudiaremos datos reales de YouTube.Music para probar las siguientes hipotesis:
 
 - 3.- Los usuarios de Springfield y Shelbyville tienen preferencias distintas?.En **Springfield** prefieren el **pop** mientras que en **Shelbyville** hay más aficionados al **rap**??.
 
-# Descrpción de los datos
+# Descripción de los datos
 
 Los datos del comportamiento del usuario se almacenan en el archivo `'/datasets/music_project_en.csv'`
 
@@ -27,8 +27,8 @@ De acuerdo con la documentación:
 - `'Day'` — día de la semana
 
 # Habilidades técnicas
-- Python
-- Pandas
+- `Python`
+- `Pandas`
 
 # Conclusión general
 Hemos probado las siguientes tres hipótesis:
