@@ -8,3 +8,17 @@ En este proyecto compararemos las preferencias musicales de las ciudades de Spri
 - 2.- Los **lunes en la mañana** y los **viernes en la noche** los habitantes de **Springfield y Shelbyville** escuchan diferentes géneros??.
 
 - 3.- Los usuarios de Springfield y Shelbyville tienen preferencias distintas?.En **Springfield** prefieren el **pop** mientras que en **Shelbyville** hay más aficionados al **rap**??.
+
+#Descrpcion de los datos
+
+La tabla contiene siete columnas. Todas almacenan el mismo tipo de datos: objeto.
+
+De acuerdo con la documentación:
+
+'userID' — identificador del usuario
+'Track' — título de la pista
+'artist' — nombre del artista
+'genre' — género
+'City' — ciudad del usuario
+'time' — la hora exacta en que se reprodujo la pista
+'Day' — día de la semana
